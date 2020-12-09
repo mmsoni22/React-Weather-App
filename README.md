@@ -1,5 +1,5 @@
 # Weather App 
-Creared a weather app using React library and fetch the data from openWeatherMapAPI and update user interface dynamically.
+Created a weather app using React library and fetch the data from openWeatherMapAPI and update user interface dynamically.
 
 ## Run locally
 Clone the project or download the zip folder and run "npm start" command.
